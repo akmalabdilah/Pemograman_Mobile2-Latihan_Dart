@@ -10,9 +10,9 @@
 <p align="center">
 
 <p align="center">
-<a href="https://github.com/akmalabdilah/tugas-permogra#Requirements">Requirements</a> •
-<a href="https://github.com/akmalabdilah/tugas-permogra#informasi-git">Informasi</a> •
-<a href="https://github.com/akmalabdilah/tugas-permogra#Tutorial">Tutorial</a>
+<a href="https://github.com/akmalabdilah/Pemograman_Mobile2-Latihan_Dart">Requirements</a> •
+<a href="https://github.com/akmalabdilah/Pemograman_Mobile2-Latihan_Dart">Informasi</a> •
+<a href="https://github.com/akmalabdilah/Pemograman_Mobile2-Latihan_Dart">Tutorial</a>
 </p>
 </div>
 
