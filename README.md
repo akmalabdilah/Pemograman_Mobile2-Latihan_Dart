@@ -32,7 +32,10 @@ di visual Studio Code. Jalankan perintah berikut:
 ```bash
 > Dart
 ```
+
+
 ![Gambar 1](Screenshots/ss1.JPG)
+
 
 - Setelah itu jalankan perintah Ctrl+Shift+P dan tulis Dart: New Project. untuk membuat repository 
 
