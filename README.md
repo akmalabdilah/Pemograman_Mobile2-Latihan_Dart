@@ -17,7 +17,7 @@
 </div>
 
 # Requirements
-- [Git](https://git-scm.com/download)
+- [Dart](https://git-scm.com/download)
 
 # Informasi Dart
 Apa itu Dart?
