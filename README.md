@@ -48,9 +48,16 @@ di visual Studio Code. Jalankan perintah berikut:
 ![Gambar 2](Screenshots/ss2.JPG)
 
 ```dart
+import 'dart:io';
+
 void main() {
-  var nama = "312110034_M. AKMAL AL ABDILAH";
-  for (int i = 1; i <= 10; i++) {
+  stdout.write("Masukkan nama: ");
+  var nama = stdin.readLineSync();
+
+  stdout.write("Masukkan angka: ");
+  var angka = int.parse(stdin.readLineSync()!);
+
+  for (int i = 1; i <= angka; i++) {
     if (i % 2 == 0) {
       print(nama);
     } else {
@@ -58,6 +65,7 @@ void main() {
     }
   }
 }
+
 
 ```
 
