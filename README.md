@@ -43,7 +43,7 @@ di visual Studio Code. Jalankan perintah berikut:
 
 - Dan ini adalah koding dart serta hasil runnya
 
-- 1. Membuat pemograman perulangan dart 1 sampai 10 bilangan genab di ganti nama.
+- 0. Membuat pemograman perulangan dart 1 sampai 10 bilangan genab di ganti nama.
 
 ![Gambar 2](Screenshots/ss2.JPG)
 
@@ -67,6 +67,33 @@ void main() {
     }
   }
 }
+```
+
+- 1. Membuat pemograman perulangan dart 1 sampai 10 bilangan ganjil di ganti nama.
+
+![Gambar 7](Screenshots/ss7.JPG)
+
+```dart
+import 'dart:io';
+
+void main() {
+  stdout.write('Masukkan nama: ');
+  var nama = stdin.readLineSync();
+
+  stdout.write('Masukkan angka: ');
+  var angka = int.parse(stdin.readLineSync()!);
+
+  print('\nHasil Run :\n');
+
+  for (int i = 1; i <= angka; i++) {
+    if (i % 2 == 0) {
+      print(i);
+    } else {
+      print(nama);
+    }
+  }
+}
+
 ```
 
 
